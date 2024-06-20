@@ -80,6 +80,7 @@ android_app_import {
 	owner: "asus",
 	apk: "proprietary/vendor/app/TimeService/TimeService.apk",
 	presigned: true,
+	preprocessed: true,
 	dex_preopt: {
 		enabled: false,
 	},
